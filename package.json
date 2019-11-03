@@ -1,0 +1,54 @@
+{
+  "_from": "react-native-dialog-input",
+  "_id": "react-native-dialog-input@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-boi++dT2tzV8eCZud5Qe3LY/cdTGfgf93Vy4MFxq3O/4rBehllwCfBn5fhWMuf3JcVlzrk0fBsv/Ny766BiyVA==",
+  "_location": "/react-native-dialog-input",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-dialog-input",
+    "name": "react-native-dialog-input",
+    "escapedName": "react-native-dialog-input",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-dialog-input/-/react-native-dialog-input-1.0.7.tgz",
+  "_shasum": "b2fefb4193d1784b3ae78c4a18d8fd6759466009",
+  "_spec": "react-native-dialog-input",
+  "_where": "C:\\Users\\Fabio\\Downloads\\BRT",
+  "author": {
+    "name": "Jose Estrella"
+  },
+  "bugs": {
+    "url": "https://github.com/joseestrella89/react-native-dialog-input/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Dialog with input for React Native on iOS and Android.",
+  "homepage": "https://github.com/joseestrella89/react-native-dialog-input#readme",
+  "keywords": [
+    "react",
+    "native",
+    "dialog",
+    "text input",
+    "android",
+    "ios"
+  ],
+  "main": "index.js",
+  "name": "react-native-dialog-input",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseestrella89/react-native-dialog-input.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}
